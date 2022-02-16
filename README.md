@@ -4,12 +4,12 @@ Sistema simples que conta os anos, meses e dias entre a data de hoje e a data es
 O sistema foi criado com o auxílio do [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 # Propósito
-O sistema foi criado como base de estudo para fixar os conhecimentos sobre IF/ELSE e  manipulação de DOM.
+O sistema foi criado como base de estudo para fixar os conhecimentos sobre **IF/ELSE** e  **manipulação de DOM**.
 
 # Como rodar
 1 - Clone o diretório.
 ```shell
-git clone https://github.com/BrunoSapalacio/Calculadora_IMC.git
+git clone https://github.com/BrunoSapalacio/Contador_de_Namoro.git
 ```
 2 - Inicialize o Visual Studio Code.
 
