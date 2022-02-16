@@ -3,18 +3,26 @@ Sistema simples que conta os anos, meses e dias entre a data de hoje e a data es
 
 O sistema foi criado com o auxílio do [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
+# Propósito
+O sistema foi criado como base de estudo para fixar os conhecimentos sobre IF/ELSE e  manipulação de DOM.
+
 # Como rodar
+1 - Clone o diretório.
 ```shell
-# Clonar o diretório
-git clone https://github.com/BrunoSapalacio/Contador_de_Namoro.git
-
-# Entrar numa IDE de sua preferência
-
-# Executar o servidor ou usar um puglin que cria um servidor
-
-# Abra o seu navegador e acesse http://localhost:5500/ ou em uma porta de sua preferência.
+git clone https://github.com/BrunoSapalacio/Calculadora_IMC.git
 ```
+2 - Inicialize o Visual Studio Code.
+
+![imagem_2022-02-15_230816](https://user-images.githubusercontent.com/64747697/154182802-2002da45-bf9e-483b-81c2-255474be9028.png)
+
+3 - Pesquise e instale a extensão Live Server.
+
+![imagem_2022-02-15_230123](https://user-images.githubusercontent.com/64747697/154182080-d38b3fac-614f-4d3d-96fe-84f5478bff4d.png)
+
+4- Abra o arquivo index.html e clique com o botão direito do mouse na areá do codigo e clique em 'Open with Live Server'. Após isso, o plugin irá abrir a pagina HTML do sistema em seu navegador.
+
+![Live](https://user-images.githubusercontent.com/64747697/154183794-96784776-b0bd-4e2a-9525-ca181c52984d.jpg)
 
 # Prints
-![Pagina1](https://user-images.githubusercontent.com/64747697/150233848-3db5b892-c0a2-453f-a24f-e3951edde716.png)
-![Pagina2](https://user-images.githubusercontent.com/64747697/150233876-643f84d3-623e-488e-9edd-f5a10351ab4d.png)
+![Pagina1](https://user-images.githubusercontent.com/64747697/154368410-6c39227a-1a8c-4199-b124-e5c3b4804da2.png)
+![Pagina2](https://user-images.githubusercontent.com/64747697/154368422-369b9c25-5fde-4bd9-ab8f-001614139ab8.png)
