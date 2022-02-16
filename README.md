@@ -1,7 +1,7 @@
 # Descrição
 Sistema simples que conta os anos, meses e dias entre a data de hoje e a data escolhida.
 
-O sistema foi criado com o auxílio do [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+O sistema foi criado com o auxílio do [Curso Grátis de JavaScript e ECMAScript para Iniciantes - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1).
 
 # Propósito
 O sistema foi criado como base de estudo para fixar os conhecimentos sobre **IF/ELSE** e  **manipulação de DOM**.
